@@ -39,6 +39,19 @@ O objetivo é fornecer um **formulário de matrícula online** para a escola de 
    cd estrelas-do-amanha
    ```
 
+3. Abrir no navegador
+
+   * Clique duas vezes no arquivo `index.html`
+   * Ou utilize a extensão **Live Server** no VSCode para rodar localmente.
+
+---
+
+## 📸 Prévia do Projeto
+
+![Prévia do Portal](.github/preview.jpg)
+
+---
+
 ## 📌 Próximos Passos
 
 * [ ] Implementar **validação de formulário** com JavaScript.
